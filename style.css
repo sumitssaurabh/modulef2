@@ -1,0 +1,50 @@
+*{
+  background-color: aquamarine;
+}
+.flex-container {
+  display: flex;
+}
+img {
+  height: 330px;
+  width: 330px;
+  flex-wrap: wrap;
+  margin: auto;
+  margin-top: 10px;
+  justify-content: space-evenly;
+}
+.fform {
+  text-align: center;
+  margin-top: 30px;
+}
+.from {
+  text-align: center;
+  font-size: 40px;
+}
+.userDataForm {
+  display: none;
+}
+#userDetail_name {
+  text-align: center;
+}
+#userDetail_username {
+  text-align: center;
+}
+#sum {
+  text-align: center;
+}
+#dice_image {
+  display: none;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+#randomText {
+  text-align: center;
+}
+#congratulationImage {
+  display: none;
+  margin-top: 20px;
+}
